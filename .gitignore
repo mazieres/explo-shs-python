@@ -1,0 +1,4 @@
+*.DS_Store
+materiel/.ipynb_checkpoints/
+materiel/test.csv
+materiel/test.gexf
